@@ -19,7 +19,9 @@ Fui desafiado a corrigir o código e deixa-lo com a mesma cara ou até melhor. C
 
 ## Demo
 
-Insert gif or link to demo
+<p> 
+<img alt="Treine.me" src="./images/Design sem nome.gif" width="50%">
+</p>
 
 [ACESSE AQUI](https://cleytonw-treine-me.netlify.app/)
 ## Layout
