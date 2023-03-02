@@ -20,7 +20,7 @@ Fui desafiado a corrigir o código e deixa-lo com a mesma cara ou até melhor. C
 ## Demo
 
 <p> 
-<img alt="Treine.me" src="./images/Design sem nome.gif(1)" width="50%">
+<img alt="Treine.me" src="./images/demo.png" width="50%">
 </p>
 
 [ACESSE AQUI](https://cleytonw-treine-me.netlify.app/)
