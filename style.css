@@ -1,41 +1,41 @@
-body {
+* {
   margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
 
+body {
   font-family: 'Open Sans', sans-serif;
-
   background: linear-gradient(180deg, rgba(227, 255, 248, 0) 82.08%, rgba(227, 255, 248, 0.38) 100%);
-
   min-height: 100vh;
 }
 
 .page {
   width: 1000px;
   margin: 0 auto;
-  padding-top: 65px;
+  padding-top: 30px;
   }
 
-  nav {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    margin-bottom: 55px;
-    font-family: 'Mulish', sans-serif;
-    }
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 55px;
+  font-family: 'Mulish', sans-serif;
+}
 
-ul{
+ul {
   display: flex;
   gap: 48px;
   list-style: none;
-  margin: 0;
-  padding: 0;
 }
 
-a{
+a {
   color: #1F1534;
   text-decoration: none;
 }
 
-ul li a{
+ul li a {
   opacity: 0.5;
 }
 
@@ -44,7 +44,7 @@ ul li a:hover {
   opacity: 1;
 }
 
-h1, ul{
+h1, ul {
   font-family: 'Mulish', sans-serif;
 }
 
@@ -62,13 +62,12 @@ h1 {
   width: 490px; /* essa alteração também pode ser feita pelo html adicionando um quebra linha "<br/>" */
 }
 
-h1 span{
+h1 span {
   color: #89c5cc;
   font-weight: bold;
-
 }
 
-section p{
+section p {
   font-size: 14px;
   line-height: 28px;
   color: #7D7987;
@@ -90,24 +89,23 @@ button {
   cursor: pointer;
 }
 
-button:hover{
+button:hover {
   background: #4ea788;
 }
 
-footer{
+footer {
   font-size: 14px;
   line-height: 28px;
   text-align: center;
   margin-top: 80px;
-  
 }
 
-footer a{
+footer a {
   font-weight: bold;
 }
 
-#balls{
+#balls {
   position: fixed;
-  right: 0px;
-  bottom: 0px;
+  right: 0;
+  bottom: 0;
 }
